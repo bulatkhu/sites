@@ -1,0 +1,5 @@
+import App from './App'
+import './modules/ts.module'
+import './css/index.css'
+import './less/index.less'
+import './scss/index.sass'
