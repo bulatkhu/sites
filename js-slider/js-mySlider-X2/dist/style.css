@@ -1,4 +1,4 @@
-@import "header.css";
+
 .slider {
 	position: relative;
 	overflow: hidden;
@@ -67,3 +67,5 @@
 	font-size: 100px;
 	text-align: center;
 }
+
+

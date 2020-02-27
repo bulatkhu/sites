@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const boxes = document.querySelectorAll('.block')
 const spaceOfSlider = document.querySelector('.box-slider')
 
@@ -29,3 +30,5 @@ function click() {
 }
 
 document.onclick = click
+=======
+>>>>>>> 8eb6741fff3a7e3cc3132ade299b9916817b2dcf

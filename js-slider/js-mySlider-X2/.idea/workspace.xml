@@ -5,6 +5,10 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/src/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
+>>>>>>> 8eb6741fff3a7e3cc3132ade299b9916817b2dcf
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,12 +27,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+<<<<<<< HEAD
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
+=======
+>>>>>>> 8eb6741fff3a7e3cc3132ade299b9916817b2dcf
   <component name="ProjectId" id="1YL8jK6yq0Q7Nia6qT7n7RCGBq1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,15 +50,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist" />
+>>>>>>> 8eb6741fff3a7e3cc3132ade299b9916817b2dcf
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+<<<<<<< HEAD
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\Desktop\Github\sites\js-slider\js-mySlider-X2\src" />
+=======
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Git-Projects\sites\js-slider\js-mySlider-X2\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Git-Projects\sites\js-slider\js-mySlider-X2\dist" />
+      <recent name="C:\Users\admin\Desktop\Git-Projects\sites\js-slider\js-mySlider-X2" />
+>>>>>>> 8eb6741fff3a7e3cc3132ade299b9916817b2dcf
     </key>
   </component>
   <component name="RunManager">
@@ -87,7 +107,11 @@
       <option name="presentableId" value="Default" />
       <updated>1582710647510</updated>
       <workItem from="1582710649276" duration="4878000" />
+<<<<<<< HEAD
       <workItem from="1582730774429" duration="4511000" />
+=======
+      <workItem from="1582794028579" duration="6679000" />
+>>>>>>> 8eb6741fff3a7e3cc3132ade299b9916817b2dcf
     </task>
     <servers />
   </component>
