@@ -5,22 +5,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <title>Title</title>
   <style>
+
+    body {
+      background-color: gray;
+    }
     * {
       box-sizing: border-box;
       font-family: sans-serif;
     }
     .box-slider {
       width: 300px;
-      height: 150px;
       outline: 3px solid;
       margin: 120px auto;
       position: relative;
     }
     .block {
-      transition: all 1s;
       width: 300px;
       height: 150px;
-      position: absolute;
       background-color: blue;
       display: flex;
       justify-content: center;
@@ -29,24 +30,45 @@
       color: white;
     }
   </style>
+  <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
 </head>
 <body>
 <div class="box-slider">
-  <div class="block">1</div>
-  <!-- /.block -->
-  <div class="block">2</div>
-  <!-- /.block -->
-  <div class="block">3</div>
-  <!-- /.block -->
-  <div class="block">4</div>
-  <!-- /.block -->
-  <div class="block">5</div>
-  <!-- /.block -->
-  <div class="block">6</div>
-  <!-- /.block -->
-  <div class="block">7</div>
-  <!-- /.block -->
+  <div class="block-wrapper">
+    <div class="block">1</div>
+  </div>
+  <div class="block-wrapper">
+    <div class="block">2</div>
+  </div>
+  <div class="block-wrapper">
+    <div class="block">3</div>
+  </div>
+  <div class="block-wrapper">
+    <div class="block">4</div>
+  </div>
+  <div class="block-wrapper">
+    <div class="block">5</div>
+  </div>
+  <div class="block-wrapper">
+    <div class="block">6</div>
+  </div>
 </div>
 <!-- /.box-slider -->
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="slick/slick.min.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.box-slider').slick({
+      vertical: true,
+      slidesToShow: 2,
+      slidesToScroll: 1,
+    });
+  });
+</script>
+
+
 </body>
 </html>
